@@ -1,0 +1,90 @@
+.account-setting__content {
+  padding: 2rem;
+    font-family:arial;
+}
+
+.product-table-container {
+  overflow-x: auto;
+}
+
+.product-table-container table {
+  width: 100%;
+  border-collapse: collapse;
+  color: #eee;
+  background: #1a1a1a;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+table th,
+table td {
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 1px solid #333;
+  font-size:25px;
+}
+
+.qty-input {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.qty-count {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 25px;
+}
+.qty-count:hover {
+  background-color: red;
+}
+
+.product-qty {
+  width: 30px;
+  font-size: 30px;
+  padding: 5px;
+  text-align: center;
+  background-color: #1a1a1a;
+  color: #fff;
+  border:none;
+  margin-left:10px;
+}
+
+.cross-icon {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 0.4rem 0.6rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.cross-icon:hover {
+  background-color: white;
+}
+
+.total-price {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.btn-big {
+  background-color: red;
+  padding: 0.8rem 1.6rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  border:none;
+}
+.btn-big:hover {
+  background-color:white;
+  color:black;
+  border:2px solid black;
+}

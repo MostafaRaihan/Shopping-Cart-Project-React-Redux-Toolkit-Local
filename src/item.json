@@ -1,0 +1,75 @@
+[
+        {
+        "id": 1,
+        "title": "Samsung Galaxy S23 Ultra 5G",
+        "price": 149999,
+        "img": "/public/products/samsung-galaxy-s23-ultra-green-official-image.jpg"
+        },
+        {
+        "id": 2,
+        "title": "Samsung Galaxy A17 5G",
+        "price": 24999,
+        "img": "/public/products/galaxy-a17-5g.jpg"
+        },
+        {
+        "id": 3,
+        "title": "Samsung Galaxy M14 5G",
+        "price": 28499,
+        "img": "/public/products/galaxy-m14-5g.jpg"
+        },
+        {
+        "id": 4,
+        "title": "Samsung Galaxy S25 FE",
+        "price": 89999,
+        "img": "/public/products/galaxy-s25-fe.jpg"
+        },
+        {
+        "id": 5,
+        "title": "Samsung Galaxy S23 FE",
+        "price": 99999,
+        "img": "/public/products/galaxy-s23-fe.jpg"
+        },
+        {
+        "id": 6,
+        "title": "Samsung Galaxy S25 Ultra",
+        "price": 199999,
+        "img": "/public/products/galaxy-s25-ultra.jpg"
+        },
+        {
+        "id": 7,
+        "title": "Samsung Galaxy Z Flip 4",
+        "price": 147999,
+        "img": "/public/products/galaxy-z-flip4.jpg"
+        },
+        {
+        "id": 8,
+        "title": "Samsung Galaxy Z Flip 5",
+        "price": 183999,
+        "img": "/public/products/galaxy-z-fold5.jpg"
+        },
+        {
+        "id": 9,
+        "title": "Samsung Galaxy A23 LTE",
+        "price": 32499,
+        "img": "/public/products/galaxy-a23-lte.jpg"
+        },
+        {
+        "id": 10,
+        "title": "Samsung Galaxy F22",
+        "price": 24999,
+        "img": "/public/products/galaxy-f22.jpg"
+        },
+        {
+        "id": 11,
+        "title": "Samsung Galaxy S21 FE 5G",
+        "price": 79999,
+        "img": "/public/products/galaxy-s21-fe.jpg"
+        },
+        {
+        "id": 12,
+        "title": "Samsung Galaxy M55",
+        "price": 22000,
+        "img": "/public/products/galaxy-m55-5g.jpg"
+        }
+]
+

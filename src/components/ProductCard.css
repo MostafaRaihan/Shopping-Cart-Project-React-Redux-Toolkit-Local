@@ -1,0 +1,79 @@
+.ingredient {
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 1rem;
+  border: 1px solid #2c2c2c;
+  transition: transform 0.3s;
+  font-family:arial;
+}
+.ingredient:hover {
+  transform: translateY(-5px);
+  border-color: var(--color-primary);
+}
+
+.ingredient__image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.ingredient__title {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  font-weight: bold;
+  color: #fff;
+}
+
+.ingredient__content .price span {
+  font-size: 1.1rem;
+  color: #00ffd1;
+}
+
+.ingredient__btn {
+  margin-top: 1rem;
+}
+
+.ingredient__btn button {
+  width: 100%;
+  background-color: var(--color-primary);
+  color: #fff;
+  padding: 0.6rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.ingredient__btn button:hover {
+  background-color: var(--color-primary-hover);
+}
+
+.ingredient__footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.price {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #00ffd1;
+}
+
+.btn-add-to-cart {
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: white;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.btn-add-to-cart:hover {
+  background: red;
+  border:2px solid white;
+}

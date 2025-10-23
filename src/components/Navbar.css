@@ -1,0 +1,32 @@
+.navbar {
+  background-color: #1a1a1a;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.links {
+  color: #00ffd1;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: color 0.3s ease;
+}
+
+.links:hover {
+  color: #00a3a3;
+}
+
+.cartIcon {
+  color: #00ffd1;
+  transition: transform 0.3s ease;
+}
+
+.links:hover .cartIcon {
+  transform: scale(1.2);
+}
